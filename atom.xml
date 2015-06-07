@@ -5,7 +5,7 @@
   <subtitle><![CDATA[blog for me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://blog.mkoga.net//"/>
-  <updated>2015-06-07T06:03:21.503Z</updated>
+  <updated>2015-06-07T07:32:19.767Z</updated>
   <id>http://blog.mkoga.net//</id>
   
   <author>
@@ -14,6 +14,23 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Use Hexo and Github Pages]]></title>
+    <link href="http://blog.mkoga.net/2015/06/07/Use-Hexo-and-Github-Pages/"/>
+    <id>http://blog.mkoga.net/2015/06/07/Use-Hexo-and-Github-Pages/</id>
+    <published>2015-06-07T07:27:36.000Z</published>
+    <updated>2015-06-07T07:32:19.767Z</updated>
+    <content type="html"><![CDATA[<p>数年間の間、このブログを放置してきましたが、その間はHerokuにホストしてもらっていました。ありがとうございます。</p>
+<p>そのHerokuが、プラン形態を変更し、毎日6時間程度Dynoが止まってしまうようです。<br><a href="https://www.heroku.com/beta-pricing" target="_blank" rel="external">https://www.heroku.com/beta-pricing</a><br>そこで、Github Pagesへの移行と、BlogシステムもOctopressからHexoへ移行しました。</p>
+<p>今後とも、よろしくお願いいたします。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>数年間の間、このブログを放置してきましたが、その間はHerokuにホストしてもらっていました。ありがとうございます。</p>
+<p>そのHerokuが、プラン形態を変更し、毎日6時間程度Dynoが止まってしまうようです。<br><a href="https://www.he]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Org-modeで保存後自動でpublishする]]></title>
