@@ -1,0 +1,131 @@
+---
+layout: post
+title: "KFP#x06に参加してきた"
+date: 2011-10-22 22:25
+comments: true
+categories:
+---
+
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"></h2>
+<div class="outline-text-2" id="text-1">
+
+
+{% img top /images/KPF_logo.gif "Logo of KPF" %}
+
+</div>
+
+</div>
+
+<div id="outline-container-2" class="outline-2">
+<h2 id="sec-2">KFP#x06</h2>
+<div class="outline-text-2" id="text-2">
+
+<p>  第x06回、KFP(Kumamoto Programming Freaks)に参加してきました。
+  熊本で開催された、プログラミングに関する勉強会です。
+  参加者は、熊本はもちろん、東京、福岡や、宮崎など各地から参加されていました。
+  本人には伝えることができませんでしたが、同じ学科の後輩もいました。
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-3" class="outline-2">
+<h2 id="sec-3">感じたこと</h2>
+<div class="outline-text-2" id="text-3">
+
+<p>  すべての発表でメモを取ったわけではないのですが(ごめんなさい。)、自分の感じたことメモです。
+</p>
+</div>
+
+<div id="outline-container-3-1" class="outline-3">
+<h3 id="sec-3-1">関数型言語と定理証明</h3>
+<div class="outline-text-3" id="text-3-1">
+
+<p>   <a href="http://twitter.com/snisimu">@snisimu</a> さんの発表でした。
+</p>
+<p>
+   関数型言語の簡単な例から、定理証明への対応付けは理解しやすかったです。
+   現在は証明言語からHW記述言語へコンバートすることを考えていらっしゃるようで、
+   今後趣味として証明付きのCPUなどを作りたいそうです。
+   関数型のHW記述言語と言われると、<a href="http://raintown.org/lava">Lava</a> や
+   <a href="http://hackage.haskell.org/package/clash">CLasH</a> を思い出しました。
+</p></div>
+
+</div>
+
+<div id="outline-container-3-2" class="outline-3">
+<h3 id="sec-3-2">プログラミング、デザイン、アート、スタートアップ</h3>
+<div class="outline-text-3" id="text-3-2">
+
+<p>   <a href="http://twitter.com/shunsuk">@shunsuk</a> さんの発表でした。
+</p>
+<p>
+   スタートアップで働かれている <a href="http://twitter.com/shunsuk">@shunsuk</a> さんが
+   現在考えていらっしゃることを発表してくださいました。
+   プログラミング、デザイン(≒設計)、マーケティングを同時にできるよな人材が必要ということで、
+   <a href="http://twitter.com/shunsuk">shunsuk</a> さんが将来どうなりたいのか、
+   少しだけ見せていただけた気がします。
+</p>
+</div>
+
+</div>
+
+<div id="outline-container-3-3" class="outline-3">
+<h3 id="sec-3-3">C#で作るWindowsのWindowを制御するDSL</h3>
+<div class="outline-text-3" id="text-3-3">
+
+<p>   <a href="http://twitter.com/valvallow">valvallow</a> さんの発表でした。
+</p>
+<p>
+   Win32 APIを叩き、マウスとキーボードの動作を自動化するDSLを開発されていました。
+   マウスの位置は座標で指定し、簡単なREPLで実装されれいたようです。<br>
+   下記の質問をしました。
+</p><ul>
+<li>Q: Capibaraなどのように、ボタンをラベルの内容で指定できるのか？
+<ul>
+<li>A: 現在はできない。ボタンのIDしていするAPIは存在する。
+</li>
+</ul>
+
+</li>
+<li>Cocoaへのポートは可能か？
+<ul>
+<li>A: ぜひやってください。
+</li>
+</ul>
+
+</li>
+</ul>
+
+
+</div>
+
+</div>
+
+<div id="outline-container-3-4" class="outline-3">
+<h3 id="sec-3-4">まとめ</h3>
+<div class="outline-text-3" id="text-3-4">
+
+<p>   直接仕事でコードを書いている方、仕事を楽にするためにコッソリ(?)書かれてる方や、ビジネス寄り
+   の方など、様々な方とお話できて、とても良い刺激になりました。
+   自分のロールモデルにいいとこ取りしていきたいと思います。
+</p></div>
+
+</div>
+
+<div id="outline-container-3-5" class="outline-3">
+<h3 id="sec-3-5">その他</h3>
+<div class="outline-text-3" id="text-3-5">
+
+<ul>
+<li><a href="http://valvallow.blogspot.com/2011/10/kpf.html">熊本プログラミングフリークス（KPF） #x06 を開催しました。 - vallog</a>
+</li>
+<li><a href="http://togetter.com/li/204354">KPF #x06 - Togetter</a>
+</li>
+</ul>
+
+</div>
+</div>
+</div>

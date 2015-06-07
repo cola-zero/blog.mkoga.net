@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Safariの初期化"
+date: 2011-12-08 02:02
+comments: true
+categories:
+---
+
+<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1"></h2>
+<div class="outline-text-2" id="text-1">
+
+
+<p>
+最近はChromeを主に使っていたのだけど、久しぶりにSafariを
+起動したら、最初の操作で落ちるようになってしまった。
+</p>
+<p>
+参考したサイト<sup><a class="footref" name="fnr.1" href="#fn.1">1</a></sup>にあるように、初期化を行ったら起動するようになった。
+自分の環境では、$HOME/Library/Preferences/com.apple.Safari.plist
+を移動して初期化したら無事起動するようになった。
+</p>
+<p>
+原因がわからないのがとても不安&hellip;
+</p>
+
+
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+<p class="footnote"><sup><a class="footnum" name="fn.1" href="#fnr.1">1</a></sup> <a href="http://tukaikta.blog135.fc2.com/blog-entry-59.html">Mac：Safariを手動でリセット。 | Macとかの雑記帳:Safari</a>
+</p></div>
+</div>
+
+</div>
+</div>
