@@ -69,4 +69,10 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/cola-zero/blog.mkoga.net.git
+    
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
